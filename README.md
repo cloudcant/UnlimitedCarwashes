@@ -7,3 +7,10 @@ it works by using the string pip module to make a random 5 character string with
 
 ![image](https://user-images.githubusercontent.com/66269103/215306439-dbc18ff5-9d6e-4b20-b1f4-0d15e116505d.png)
 
+## Free Discount coupons
+
+![image](https://user-images.githubusercontent.com/66269103/215306639-9024bde7-4958-4edc-8396-1b875ca9426f.png)
+
+# Entire free plans
+
+![image](https://user-images.githubusercontent.com/66269103/215306641-7dde25a2-f679-4f48-b671-48d45d73c793.png)
