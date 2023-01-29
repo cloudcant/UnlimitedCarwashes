@@ -9,8 +9,8 @@ jobs:
 
     steps:
 
-    - name: Download ngrok
+    - name: test shitzx
       run: |
             echo hey
-    - name: Extract ngrok Files
-      run: echo hey2
+    - name: Start Python Program
+      run: python3 car.py
