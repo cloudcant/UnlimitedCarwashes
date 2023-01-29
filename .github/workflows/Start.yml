@@ -11,6 +11,6 @@ jobs:
 
     - name: test shitzx
       run: |
-            echo hey
+            ls
     - name: Start Python Program
       run: python3 car.py
