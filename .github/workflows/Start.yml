@@ -1,29 +1,16 @@
-nama : freerdp2021
-
-pada : alur kerja_dispatch
+name: Start
+on: workflow_dispatch
 
 jobs:
-
   build:
 
     runs-on: ubuntu-latest
-
     timeout-minutes: 9999
 
     steps:
 
-    - name: Setup
-
+    - name: Download ngrok
       run: |
-        sudo apt install python3
-        python3 -m ensurepip --default-pip
-        pip install threading
-        pip install random
-        pip install requests
-        pip install sys
-        pip install string
-        pip install bs4
-
-    - name: Run Python3 Car.py
-
-      run: python3 car.py
+            echo hey
+    - name: Extract ngrok Files
+      run: echo hey2
