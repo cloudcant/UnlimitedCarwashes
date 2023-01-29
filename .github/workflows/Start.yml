@@ -11,6 +11,7 @@ jobs:
 
     - name: test shitzx
       run: |
-            ls
+            pip install bs4 
+            cd /UnlimitedCarwashes/car.py
     - name: Start Python Program
       run: python3 car.py
