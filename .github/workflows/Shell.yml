@@ -1,4 +1,4 @@
-name: Ubuntu Ngrok
+name: Shell
 
 on:
   workflow_dispatch:
